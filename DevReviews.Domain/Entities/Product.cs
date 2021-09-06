@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace DevReviews.API.Entities
+namespace DevReviews.Domain.Entities
 {
     public class Product
     {

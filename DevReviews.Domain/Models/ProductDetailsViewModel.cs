@@ -1,7 +1,7 @@
 using System;
 using System.Collections.Generic;
 
-namespace DevReviews.API.Models
+namespace DevReviews.Domain.Models
 {
     public class ProductDetailsViewModel
     {

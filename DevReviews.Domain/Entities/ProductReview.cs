@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace DevReviews.API.Entities
+namespace DevReviews.Domain.Entities
 {
     public class ProductReview
     {

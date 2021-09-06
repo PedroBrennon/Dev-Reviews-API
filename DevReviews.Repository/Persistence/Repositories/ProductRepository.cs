@@ -1,6 +1,8 @@
 ﻿using System.Collections.Generic;
 using System.Threading.Tasks;
-using DevReviews.API.Entities;
+using DevReviews.Domain.Entities;
+using DevReviews.Domain.Interfaces;
+using DevReviews.Repository.Persistence;
 using Microsoft.EntityFrameworkCore;
 
 namespace DevReviews.API.Persistence.Repositories

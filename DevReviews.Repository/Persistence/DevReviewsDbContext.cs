@@ -1,8 +1,7 @@
-﻿using System.Collections.Generic;
-using DevReviews.API.Entities;
+﻿using DevReviews.Domain.Entities;
 using Microsoft.EntityFrameworkCore;
 
-namespace DevReviews.API.Persistence
+namespace DevReviews.Repository.Persistence
 {
     public class DevReviewsDbContext : DbContext
     {

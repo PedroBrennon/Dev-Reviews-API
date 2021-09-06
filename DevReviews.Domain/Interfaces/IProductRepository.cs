@@ -1,8 +1,8 @@
 ﻿using System.Collections.Generic;
 using System.Threading.Tasks;
-using DevReviews.API.Entities;
+using DevReviews.Domain.Entities;
 
-namespace DevReviews.API.Persistence.Repositories
+namespace DevReviews.Domain.Interfaces
 {
     public interface IProductRepository
     {

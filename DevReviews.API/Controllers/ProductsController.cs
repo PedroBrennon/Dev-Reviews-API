@@ -1,9 +1,9 @@
 ﻿using System.Collections.Generic;
 using System.Threading.Tasks;
 using AutoMapper;
-using DevReviews.API.Entities;
-using DevReviews.API.Models;
-using DevReviews.API.Persistence.Repositories;
+using DevReviews.Domain.Entities;
+using DevReviews.Domain.Interfaces;
+using DevReviews.Domain.Models;
 using Microsoft.AspNetCore.Mvc;
 
 namespace DevReviews.API.Controllers
